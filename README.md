@@ -32,3 +32,7 @@ This will automatically add "http://" to the beginning of the `website` attribut
 Questions or problems? Please post them on the [issue tracker](https://github.com/ryanb/url_formatter/issues). You can contribute changes by forking the project and submitting a pull request. You can ensure the tests passing by running `bundle` and `rake`.
 
 This gem is created by Ryan Bates and is under the MIT License.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/cyrusstoller/url_formatter/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
